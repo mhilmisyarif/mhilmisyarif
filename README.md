@@ -1,83 +1,186 @@
-<!--
-  GitHub profile README for @mhilmisyarif
-  This file lives in a repo named the same as your username (mhilmisyarif/mhilmisyarif),
-  so it shows on your profile. Replace the LinkedIn placeholder below with your real handle.
--->
-
-<h1 align="center">Hi there, I'm Hilmi Syarif 👋</h1>
+<!-- GitHub profile README for @mhilmisyarif (lives in mhilmisyarif/mhilmisyarif) -->
 
 <p align="center">
-  <em>Mobile Developer & Machine Learning enthusiast — building with Flutter, exploring NLP.</em>
+  <img src="assets/hero.svg" width="100%" alt="Muhammad Hilmi Syarif, AI/ML Engineer focused on Natural Language Processing. An animated terminal shows a fine-tuned GPT-2 model turning ingredients into an Indonesian recipe." />
 </p>
 
 <p align="center">
-  <a href="https://github.com/mhilmisyarif">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=460&lines=Mobile+Developer+%F0%9F%93%B1;Flutter+Enthusiast+%F0%9F%92%99;Machine+Learning+%2F+NLP+%F0%9F%A4%96;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- ============ SOCIAL BADGES ============ -->
-<p align="center">
-  <a href="mailto:hilmisyarif.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/hilmisyarif/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/mhilmisyarif">
-    <img src="https://img.shields.io/github/followers/mhilmisyarif?label=Follow&style=for-the-badge&logo=github&color=181717&logoColor=white" alt="GitHub followers" />
-  </a>
+  <a href="mailto:hilmisyarif.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/hilmisyarif/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/mhilmisyarif?tab=followers"><img src="https://img.shields.io/github/followers/mhilmisyarif?label=Follow&style=for-the-badge&logo=github&color=181717&logoColor=white" alt="GitHub followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=mhilmisyarif&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile views" />
 </p>
 
----
+## 👋 About me
 
-### 🧑‍💻 About Me
+I'm an AI/ML engineer with a Computer Science degree and a soft spot for **language**. My main subject is **Natural Language Processing**: my final research fine-tuned GPT-2 to write Indonesian cooking recipes, and I have been working on text models ever since.
 
-- 📱 I build **mobile apps** and I'm focused on **Flutter**
-- 🤖 I'm diving into **Machine Learning** and **Natural Language Processing (NLP)**
-- 🌱 Currently learning **Flutter** and **NLP**
-- 💬 Ask me about mobile development, Dart, and anything ML
-- 📫 Reach me at **hilmisyarif.dev@gmail.com**
-- ⚡ Fun fact: I love turning ideas into apps people actually use
+A model is only useful once someone can call it, so I also build the API, the app and the release pipeline around it.
 
----
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🧠 Focus</h4>
+      Generative language models and transfer learning for low-resource Indonesian text
+    </td>
+    <td width="33%" valign="top">
+      <h4>📈 Background</h4>
+      Data scientist work on sales forecasting and ML models served as REST APIs
+    </td>
+    <td width="33%" valign="top">
+      <h4>🌱 Now learning</h4>
+      The Natural Language Processing Specialization, currently on probabilistic models
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Tech Stack
+## 🧠 NLP & Machine Learning
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <br/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+### ⭐ Indonesian recipe generation with GPT-2
+
+My thesis project, and still the one I'm proudest of. Give it a list of ingredients and it writes a complete Indonesian recipe, the way the banner above shows.
+
+```mermaid
+flowchart LR
+    A[Scrape recipe sites<br/>+ public datasets] --> B[Clean and merge<br/>all fields]
+    B --> C[BPE encoding<br/>with control tokens]
+    C --> D[Fine-tune GPT-2 small<br/>transfer learning]
+    D --> E[Conditional generation<br/>ingredients to recipe]
+    E --> F[Evaluate<br/>perplexity]
+```
+
+<details>
+<summary><b>How each stage works</b></summary>
+<br />
+
+| Stage | What I did |
+|---|---|
+| Data | Scraped Indonesian recipe sites and merged them with public datasets into one corpus |
+| Preparation | Cleaned every field, then encoded recipes with special tokens that mark where a recipe, its ingredients and its steps begin |
+| Training | Fine-tuned GPT-2 small (12 layers, 768 hidden units) first in TensorFlow, later rebuilt on PyTorch and Hugging Face Transformers |
+| Inference | Conditional generation from a prompt of ingredients, scored with perplexity |
+
+</details>
+
+### More ML work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>✍️ <a href="https://github.com/mhilmisyarif/handwrittend-digit-app">Handwritten digit generator</a></h4>
+      A conditional GAN trained on MNIST that draws any digit you pick, served as a Streamlit app.
+      <br /><br />
+      <code>TensorFlow</code> <code>Keras</code> <code>Streamlit</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📰 News topic classification</h4>
+      A bidirectional LSTM that sorts Indonesian news articles into topics.
+      <br /><br />
+      <code>TensorFlow</code> <code>NLTK</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>♻️ <a href="https://github.com/mhilmisyarif/trash-classification">Trash classification</a></h4>
+      Image classification for waste sorting.
+      <br /><br />
+      <code>Deep learning</code> <code>Jupyter</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈 Forecasting &amp; regression</h4>
+      <a href="https://github.com/mhilmisyarif/price-predict">Car price prediction</a>, <a href="https://github.com/mhilmisyarif/stock-predict">stock forecasting</a>, and product trend forecasts with SARIMAX on Google Trends data.
+      <br /><br />
+      <code>scikit-learn</code> <code>statsmodels</code> <code>pandas</code>
+    </td>
+  </tr>
+</table>
+
+## 🚀 Apps I've built
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚓ <a href="https://github.com/mhilmisyarif/harbor">Harbor</a></h4>
+      A dock, menu bar and widget panel for Windows, with signed in-app updates.
+      <br /><br />
+      <code>Tauri 2</code> <code>Rust</code> <code>React</code> <code>TypeScript</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏪 <a href="https://github.com/mhilmisyarif/warunku">Warunku</a> + <a href="https://github.com/mhilmisyarif/warunku_backend">backend</a></h4>
+      Store management for a small warung: products, customers and itemized debt tracking.
+      <br /><br />
+      <code>Flutter</code> <code>BLoC</code> <code>Express</code> <code>MongoDB</code> <code>Docker</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧪 Lab datasheet system <sub>private</sub></h4>
+      Role-based workflow for lab test records, review per clause, and generated PDF and Word reports.
+      <br /><br />
+      <code>React</code> <code>Express</code> <code>Prisma</code> <code>PostgreSQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏃 Half-marathon tracker <sub>private</sub></h4>
+      A 52-week training plan with offline sync and Strava import, as a web app and an Android app.
+      <br /><br />
+      <code>JavaScript</code> <code>Capacitor</code> <code>Vercel</code> <code>Postgres</code>
+    </td>
+  </tr>
+</table>
+
+## 🛠️ Tech stack
+
+**NLP & machine learning**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face Transformers" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square" alt="NLTK" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
----
+**Serving & data**
 
-### 📊 GitHub Stats
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+</p>
+
+**Apps**
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mhilmisyarif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mhilmisyarif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhilmisyarif&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhilmisyarif&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=mhilmisyarif&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhilmisyarif&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
-</p>
+## 📫 Let's talk
 
----
-
-<p align="center">
-  <em>Thanks for visiting! Feel free to explore my repositories. ⭐</em>
-</p>
+I'm open to NLP and machine learning roles and collaborations. The fastest way to reach me is [email](mailto:hilmisyarif.dev@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hilmisyarif/).
