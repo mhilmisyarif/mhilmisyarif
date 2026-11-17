@@ -173,12 +173,7 @@ flowchart LR
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mhilmisyarif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhilmisyarif&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mhilmisyarif&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="assets/stats.svg" width="100%" alt="GitHub activity card: contributions, pull requests and current streak over the last 12 months, top languages across public repositories, and a contribution heatmap." />
 </p>
 
 ## 📫 Let's talk
