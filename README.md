@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://mhilmisyarif.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-mhilmisyarif.github.io-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F172A" alt="Portfolio website" /></a>
   <a href="mailto:hilmisyarif.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/hilmisyarif/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/mhilmisyarif?tab=followers"><img src="https://img.shields.io/github/followers/mhilmisyarif?label=Follow&style=for-the-badge&logo=github&color=181717&logoColor=white" alt="GitHub followers" /></a>
@@ -178,4 +179,4 @@ flowchart LR
 
 ## 📫 Let's talk
 
-I'm open to NLP and machine learning roles and collaborations. The fastest way to reach me is [email](mailto:hilmisyarif.dev@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hilmisyarif/).
+I'm open to NLP and machine learning roles and collaborations. My full portfolio is at [mhilmisyarif.github.io/portfolio](https://mhilmisyarif.github.io/portfolio/), and the fastest way to reach me is [email](mailto:hilmisyarif.dev@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hilmisyarif/).
