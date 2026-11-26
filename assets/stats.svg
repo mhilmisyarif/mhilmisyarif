@@ -52,7 +52,7 @@
   </g>
 
   <text x="48" y="42" font-size="14" font-weight="700" letter-spacing="3" fill="#22D3EE">GITHUB ACTIVITY</text>
-  <text x="1152" y="42" font-size="12" fill="#64748B" text-anchor="end">updated 2026-11-25</text>
+  <text x="1152" y="42" font-size="12" fill="#64748B" text-anchor="end">updated 2026-11-26</text>
 
   <g class="rise" style="animation-delay:0ms">
     <rect x="48" y="64" width="264" height="100" rx="14" fill="#0F172A" fill-opacity="0.92" stroke="#334155"/>
@@ -189,7 +189,7 @@
     <g class="fade" style="animation-delay:1678ms"><rect x="1068" y="242" width="9" height="9" rx="2" fill="#FFFFFF" fill-opacity="0.07"/><rect x="1068" y="254" width="9" height="9" rx="2" fill="#FFFFFF" fill-opacity="0.07"/><rect x="1068" y="266" width="9" height="9" rx="2" fill="#FFFFFF" fill-opacity="0.07"/><rect x="1068" y="278" width="9" height="9" rx="2" fill="#FFFFFF" fill-opacity="0.07"/><rect x="1068" y="290" width="9" height="9" rx="2" fill="#FFFFFF" fill-opacity="0.07"/><rect x="1068" y="302" width="9" height="9" rx="2" fill="#FFFFFF" fill-opacity="0.07"/><rect x="1068" y="314" width="9" height="9" rx="2" fill="#FFFFFF" fill-opacity="0.07"/></g>
     <g class="fade" style="animation-delay:1700ms"><rect x="1080" y="242" width="9" height="9" rx="2" fill="#FFFFFF" fill-opacity="0.07"/><rect x="1080" y="254" width="9" height="9" rx="2" fill="#FFFFFF" fill-opacity="0.07"/><rect x="1080" y="266" width="9" height="9" rx="2" fill="#FFFFFF" fill-opacity="0.07"/><rect x="1080" y="278" width="9" height="9" rx="2" fill="#FFFFFF" fill-opacity="0.07"/><rect x="1080" y="290" width="9" height="9" rx="2" fill="#FFFFFF" fill-opacity="0.07"/><rect x="1080" y="302" width="9" height="9" rx="2" fill="#FFFFFF" fill-opacity="0.07"/><rect x="1080" y="314" width="9" height="9" rx="2" fill="#FFFFFF" fill-opacity="0.07"/></g>
     <g class="fade" style="animation-delay:1722ms"><rect x="1092" y="242" width="9" height="9" rx="2" fill="#FFFFFF" fill-opacity="0.07"/><rect x="1092" y="254" width="9" height="9" rx="2" fill="#A5F3FC"/><rect x="1092" y="266" width="9" height="9" rx="2" fill="#A5F3FC"/><rect x="1092" y="278" width="9" height="9" rx="2" fill="#FFFFFF" fill-opacity="0.07"/><rect x="1092" y="290" width="9" height="9" rx="2" fill="#FFFFFF" fill-opacity="0.07"/><rect x="1092" y="302" width="9" height="9" rx="2" fill="#FFFFFF" fill-opacity="0.07"/><rect x="1092" y="314" width="9" height="9" rx="2" fill="#FFFFFF" fill-opacity="0.07"/></g>
-    <g class="fade" style="animation-delay:1744ms"><rect x="1104" y="242" width="9" height="9" rx="2" fill="#0891B2"/><rect x="1104" y="254" width="9" height="9" rx="2" fill="#22D3EE"/><rect x="1104" y="266" width="9" height="9" rx="2" fill="#FFFFFF" fill-opacity="0.07"/><rect x="1104" y="278" width="9" height="9" rx="2" fill="#FFFFFF" fill-opacity="0.07"/></g>
+    <g class="fade" style="animation-delay:1744ms"><rect x="1104" y="242" width="9" height="9" rx="2" fill="#0891B2"/><rect x="1104" y="254" width="9" height="9" rx="2" fill="#22D3EE"/><rect x="1104" y="266" width="9" height="9" rx="2" fill="#FFFFFF" fill-opacity="0.07"/><rect x="1104" y="278" width="9" height="9" rx="2" fill="#FFFFFF" fill-opacity="0.07"/><rect x="1104" y="290" width="9" height="9" rx="2" fill="#FFFFFF" fill-opacity="0.07"/></g>
   </g>
   <g clip-path="url(#map)"><rect class="sweep" x="480" y="240" width="120" height="86" fill="url(#sweep)" transform="translate(-140 0)"/></g>
 </svg>
